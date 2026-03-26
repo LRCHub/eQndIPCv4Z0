@@ -1,0 +1,273 @@
+{
+  "version": 1,
+  "base_track": "Bunny Girl",
+  "base_artist": "AKASAKI",
+  "createdAt": "2026-03-26T09:01:16.283388Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bunny Girl",
+      "artist": "1nonly feat. Ciscaux",
+      "has_synced": true,
+      "path": "select/01_Bunny_Girl_1nonly_feat._Ciscaux.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Bunny Girl",
+      "artist": "1nonly, Ciscaux",
+      "has_synced": true,
+      "path": "select/02_Bunny_Girl_1nonly,_Ciscaux.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Fukashigi No Carte \"Bunny Girl Senpai\"",
+      "artist": "Shxne",
+      "has_synced": true,
+      "path": "select/03_Fukashigi_No_Carte__Bunny_Girl_Senpai_Shxne.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Fukashigi no Karte (from \"Bunny Girl Senpai\")",
+      "artist": "AmaLee",
+      "has_synced": true,
+      "path": "select/04_Fukashigi_no_Karte_(from__Bunny_Girl_Senpai_)_AmaLee.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Bunny Girl",
+      "artist": "KM",
+      "has_synced": true,
+      "path": "select/05_Bunny_Girl_KM.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Bunny Girl (ft. Ciscaux)",
+      "artist": "1nonly",
+      "has_synced": true,
+      "path": "select/06_Bunny_Girl_(ft._Ciscaux)_1nonly.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Bunny Girl Senpai (Drill Remix)",
+      "artist": "Lord Nekros",
+      "has_synced": true,
+      "path": "select/07_Bunny_Girl_Senpai_(Drill_Remix)_Lord_Nekros.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Bunny Girl",
+      "artist": "1nonly",
+      "has_synced": true,
+      "path": "select/08_Bunny_Girl_1nonly.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Bunny Girl",
+      "artist": "Ciscaux, 1nonly",
+      "has_synced": true,
+      "path": "select/09_Bunny_Girl_Ciscaux,_1nonly.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Kimi No Sei (From \"Seishun Buta Yarou Wa Bunny Girl Senpai No Yume Wo Minai\")",
+      "artist": "Studio Rascal",
+      "has_synced": false,
+      "path": "select/10_Kimi_No_Sei_(From__Seishun_Buta_Yarou_Wa_Bunny_Girl_Senpai_No_Yume_Wo_Minai_)_Studio_Rascal.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Bunny Girl",
+      "artist": "1nonly, Ciscaux",
+      "has_synced": true,
+      "path": "select/11_Bunny_Girl_1nonly,_Ciscaux.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Fukashigi No Carte (From \"Seishun Buta Yarou Wa Bunny Girl Senpai No Yume Wo Minai\")",
+      "artist": "Shayne Orok",
+      "has_synced": true,
+      "path": "select/12_Fukashigi_No_Carte_(From__Seishun_Buta_Yarou_Wa_Bunny_Girl_Senpai_No_Yume_Wo_Min_Shayne_Orok.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Fukashigi no Carte (Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai)",
+      "artist": "Shayne Orok",
+      "has_synced": true,
+      "path": "select/13_Fukashigi_no_Carte_(Seishun_Buta_Yarou_wa_Bunny_Girl_Senpai_no_Yume_wo_Minai)_Shayne_Orok.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Long Time (Feat. Peedi Peedi & Bunny Sigler)",
+      "artist": "The Roots",
+      "has_synced": false,
+      "path": "select/14_Long_Time_(Feat._Peedi_Peedi_&_Bunny_Sigler)_The_Roots.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Bunny Club",
+      "artist": "Molly Nilsson",
+      "has_synced": false,
+      "path": "select/15_Bunny_Club_Molly_Nilsson.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "bunny",
+      "artist": "YOH KAMIYAMA",
+      "has_synced": true,
+      "path": "select/16_bunny_YOH_KAMIYAMA.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Let's Pretend We're Bunny Rabbits",
+      "artist": "The Magnetic Fields",
+      "has_synced": true,
+      "path": "select/17_Let's_Pretend_We're_Bunny_Rabbits_The_Magnetic_Fields.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Bunny Ain't No Kind Of Rider",
+      "artist": "of Montreal",
+      "has_synced": true,
+      "path": "select/18_Bunny_Ain't_No_Kind_Of_Rider_of_Montreal.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Bunny",
+      "artist": "Eiafuawn",
+      "has_synced": true,
+      "path": "select/19_Bunny_Eiafuawn.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Bunny Boiler",
+      "artist": "White Town",
+      "has_synced": false,
+      "path": "select/20_Bunny_Boiler_White_Town.txt"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "I Like It (with Bad Bunny & J Balvin)",
+      "artist": "Cardi B",
+      "has_synced": true,
+      "path": "select/21_I_Like_It_(with_Bad_Bunny_&_J_Balvin)_Cardi_B.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Bunny Is A Rider",
+      "artist": "Caroline Polachek",
+      "has_synced": true,
+      "path": "select/22_Bunny_Is_A_Rider_Caroline_Polachek.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Honey Bunny",
+      "artist": "Girls",
+      "has_synced": true,
+      "path": "select/23_Honey_Bunny_Girls.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "LOYAL (Remix) [feat. Drake and Bad Bunny]",
+      "artist": "PARTYNEXTDOOR",
+      "has_synced": true,
+      "path": "select/24_LOYAL_(Remix)_[feat._Drake_and_Bad_Bunny]_PARTYNEXTDOOR.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "LOYAL (Remix) (feat. Drake and Bad Bunny)",
+      "artist": "PARTYNEXTDOOR",
+      "has_synced": true,
+      "path": "select/25_LOYAL_(Remix)_(feat._Drake_and_Bad_Bunny)_PARTYNEXTDOOR.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Blood On the Bunny",
+      "artist": "The Residents",
+      "has_synced": false,
+      "path": "select/26_Blood_On_the_Bunny_The_Residents.txt"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "The Bunny Boy",
+      "artist": "The Residents",
+      "has_synced": true,
+      "path": "select/27_The_Bunny_Boy_The_Residents.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Bunny",
+      "artist": "Zella Day",
+      "has_synced": true,
+      "path": "select/28_Bunny_Zella_Day.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Bunny",
+      "artist": "Ultra Orange & Emmanuelle",
+      "has_synced": true,
+      "path": "select/29_Bunny_Ultra_Orange_&_Emmanuelle.lrc"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "Cuddle Bunny Vs. The Celtic Villages",
+      "artist": "Underworld",
+      "has_synced": false,
+      "path": "select/30_Cuddle_Bunny_Vs._The_Celtic_Villages_Underworld.txt"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "Honey Bunny",
+      "artist": "Vincent Gallo",
+      "has_synced": false,
+      "path": "select/31_Honey_Bunny_Vincent_Gallo.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Bunny Girl",
+      "artist": "AKASAKI",
+      "has_synced": false,
+      "path": "select/pl_01_Bunny_Girl_AKASAKI.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Bunny Girl",
+      "artist": "AKASAKI",
+      "has_synced": false,
+      "path": "select/localdb_01_Bunny_Girl_AKASAKI.txt",
+      "repo_name": "RCltAg_iK0E"
+    }
+  ]
+}
